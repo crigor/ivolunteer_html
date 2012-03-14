@@ -75,7 +75,7 @@ hr{
 
 #member-area{
   float: right;
-  width: 400px;
+  width: 415px;
 }
 
 #member-area-user a{
@@ -412,6 +412,11 @@ hr{
 
 .feed-desc h4{
   margin: 0px 0px 7px 0px;
+}
+
+/*==================== SEARCH RESULTS ====================*/
+.search-results li{
+  line-height: 20px;
 }
 
 /*==================== FOOTER ====================*/
